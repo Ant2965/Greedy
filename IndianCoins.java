@@ -1,12 +1,12 @@
 //package greedy;
 import java.util.*;
 public class IndianCoins {
-
+// class defined
 	public static void main(String[] args) {
 		int coins[]= {500,2000,100,50,20,5,2,1};
 		
 		Arrays.sort(coins);
-		int amt=590;
+		int amt=670;
 		
 		int count =0;
 		ArrayList<Integer> a =new ArrayList<>();
