@@ -1,7 +1,7 @@
 //package greedy;
 import java.util.*;
 public class IndianCoins {
-
+// class defined
 	public static void main(String[] args) {
 		int coins[]= {500,2000,100,50,20,5,2,1};
 		
